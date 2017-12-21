@@ -13,4 +13,5 @@ tags: nodejs
 * 语法必须简洁
 * 方便扩展
 
-纠结了几天后我碰到了 nunjucks, 是 jinja2 的 javascript 实现, 基本符合我的需求且它的背后是 mozilla, 有完善的中文文档, 质量应该有保证但 nunjucks 也不是完美的, 它的语法以及逻辑继承自 python 而不是 javascript, 这会对前端开发人员造成一定的困扰
+纠结了几天后我碰到了 nunjucks, 是 jinja2 的 javascript 实现, 基本符合我的需求且它的背后是 mozilla, 有完善的中文文档, 质量应该有保证.
+但 nunjucks 也不是完美的, 它的语法以及逻辑继承自 python 而不是 javascript, 这会对前端开发人员造成一定的困扰
